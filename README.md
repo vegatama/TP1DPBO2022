@@ -3,7 +3,7 @@ Tugas Praktikum DPBO ke-1
 
 janji : Saya Vegatama Firdiady mengerjakan TP1 dalam mata kuliah DPBO untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
 
-Hasil program terdapat pada main.jar dan source codenya berada di tp1.rar
+Hasil program terdapat pada main.jar dan source codenya berada di tp1.rar, data database ada di tp1.sql
 
 penjelasan :
 - database terbagi menjadi 2 tabel yaitu buku dan author.

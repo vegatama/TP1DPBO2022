@@ -3,9 +3,15 @@ Tugas Praktikum DPBO ke-1
 
 Hasil program terdapat pada main.jar dan source codenya berada di tp1.rar
 
-- 
-- Jika tombol add, update, cancel, dan delete dipencat text input akan di clear.
-- jika salah satu imput tidak diisi akan muncul popup yang menyatakan data tidak lengkap.
+penjelasan :
+- database terbagi menjadi 2 tabel yaitu buku dan author.
+- program ini terdiri dari 3 jframe, 2 panel external, dan 2 kelas tambahan.
+
+Kekurangan : 
+- link gambar tidak bisa ditampilkan (error terus).
+- tombol update tidak berfungsi (susah masukin fungsi ke main).
+- setelah di delete perlu tekan tmbol add agar list hilang.
+- jika input tidak sesuai jenis variabel databaase akan error.
 
 ### Hasil Screenshoot Program
 #### main author

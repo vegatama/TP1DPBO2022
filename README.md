@@ -10,7 +10,7 @@ penjelasan :
 Kekurangan : 
 - link gambar tidak bisa ditampilkan (error terus).
 - tombol update tidak berfungsi (susah masukin fungsi ke main).
-- setelah di delete perlu tekan tmbol add agar list hilang.
+- setelah di delete perlu tekan tombol add agar panel yang di delete hilang.
 - jika input tidak sesuai jenis variabel databaase akan error.
 
 ### Hasil Screenshoot Program
